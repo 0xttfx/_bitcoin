@@ -28,7 +28,7 @@
 
 ## A criação
 
- Nesse contexto de desconfiança, após a crise, um **whitepaper**, assinado por **Satoshi Nakamoto** de nome [**Bitcoin: A Peer-to-Peer Electronic Cash System**](documents/BitcoinAPeer-to-PeerElectronicCashSystem.pdf) surgiu na Internet!
+ Nesse contexto de desconfiança, após a crise, um **whitepaper**, assinado por **Satoshi Nakamoto** de nome [**Bitcoin: A Peer-to-Peer Electronic Cash System**](https://bitcoin.org/bitcoin.pdf) surgiu na Internet!
 
  Porém até os dias de hoje, "Satoshi Nakamoto" é tido como um pseudônimo, já que a pessoa ou pessoas não tiveram sua identidade revelada e confirmada.
 
