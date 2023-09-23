@@ -2,7 +2,7 @@
 
  O Criptoanarquismo é uma vertente do anarcocapitalismo que tem como principal preocupação garantir a privacidade e a liberdade extra-estatal, por meio da utilização de criptografia assimétrica.
 
- O termo popularizado por Timothy C. May, é descrito como a realização ciber-espacial do anarquismo. Os cripto-anarquistas tem entre seus objetivos a criação de um software criptográfico capaz de impossibilitar processos judiciais e outras formas repressão ao se enviar e receber informação nas redes de computadores. Timothy C. May crypto escreve sobre o cripto-anarquismo no [Cyphernomicon](http://dicionario.sensagent.com/Criptoanarquismo/pt-pt)
+ O termo popularizado por Timothy C. May, é descrito como a realização ciber-espacial do anarquismo. Os cripto-anarquistas tem entre seus objetivos a criação de um software criptográfico capaz de impossibilitar processos judiciais e outras formas repressão ao se enviar e receber informação nas redes de computadores. Timothy C. May escreve sobre o cripto-anarquismo no [Cyphernomicon](http://dicionario.sensagent.com/Criptoanarquismo/pt-pt)
 
 ## A criação do Bitcoin
 
@@ -36,7 +36,7 @@
 
 ## O whitepaper, o Bitcoin
 
- Satoshi propôs a criação de um sistema financeiro alternativo, onde trocas e liquidação de pagamentos são combinados, de forma a dar a liberdade de indivíduos fazerem trocas financeiras entre si (P2P - peer to peer) se a intermediação deuma instituição reguladora/financeira.
+ Satoshi propôs a criação de um sistema financeiro alternativo, onde trocas e liquidação de pagamentos são combinados, de forma a promover a liberdade, a qualquer indivíduo, de fazer trocas financeiras (P2P - peer to peer) sem a intermediação de uma instituição reguladora/financeira.
 
  Dando poder às pessoas de fazerem transferêncis e pagamentos sem a necessidade do uso do sistema financeiro tradicional(bancos estatais e privados, bancos centrais, corretoras, etc... ).
 
@@ -49,10 +49,10 @@
 
 > **contrainformação** ação ou estratégia para impedir ao inimigo ou a uma entidade o acesso a informação verdadeira, nomeadamente com divulgação de informações falsas.
 
- Muito se falou do Bitcoin ser ou não uma pirâmide ou crime contra a economia popuplar. Porém para se caracterizar crime, é preciso que exista um autor, um responsável! E quem poderia ser ele: Satoshi ? A casa de câmbio que compra e vende Bitcoin? O consumidor que faz uso de um sistema que ainda não tem total conhecimemento ?
+ Muito se falou do Bitcoin ser ou não uma pirâmide ou crime contra a economia popuplar. Porém para se caracterizar crime, é preciso que exista um autor, um responsável! E quem poderia ser ele: Satoshi ? A casa de câmbio ? O consumidor que faz uso de um sistema?
 
  **2012** o ano em que o **BCE** determina que o **Bitcoin** é **legal**
- O [relatório, de 2012, sobre o Bitcoin, do BCE - Banco Central Europeu](https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf), uma autoridade cuja reputação compara-se à de Paul Krugman e Nouriel Roubini, em sua página 22 dedica-se à justificativa teórica de Bitcoin, referindo-se à escola austríaca, que se posiciona contra “fiat money” em favor do padrão de ouro.
+ O [relatório, de 2012, sobre o Bitcoin, do BCE - Banco Central Europeu](https://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf), uma autoridade cuja reputação compara-se à de Paul Krugman e Nouriel Roubini, página 22, dedica-se à justificativa teórica do Bitcoin, referindo-se à escola austríaca, que se posiciona contra “fiat money” e a favor do padrão de ouro.
 
  Também, sobre ser uma pirâmide (“Ponzi scheme”), é discutida na página 28. E em teoria, não existe um organizador central que pode minar (burlar) o sistema Bitcoin e desaparecer com os fundos: condição necessária para ser um “Ponzi scheme”. 
 
@@ -68,7 +68,7 @@
 
  Portanto o Bitcoin não é ilegal, e isso já foi decidido unanimemente há muitos anos...
 
- Então sempre vão surgir pessoas como Krugman ou Roubin tentando fomentar descrédito ao Bitcoin! Mas até eles tem seus limites, pois trata-se de um sistema legal, seguro, confiável e legal! 
+ Então sempre vão surgir pessoas como Krugman ou Roubin tentando fomentar descrédito ao Bitcoin! Mas até eles tem seus limites, pois trata-se de um sistema seguro, confiável e legal! 
 
  
  
