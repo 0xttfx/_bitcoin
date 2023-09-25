@@ -4,4 +4,6 @@ Entendendo o Bitcoin
 
 
 
-[Raízes, Ideologia, Criação](raizes_e_motivos.md)
+ 1. [Raízes, Ideologia, Criação](raizes_e_motivos.md)
+ 2. [Criptomoeda](criptomoeda.md)
+ 3. coming soom...
