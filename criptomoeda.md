@@ -47,7 +47,7 @@
 
  Dessa forma, nessa rede blockchain, formada por computadores distribuídos e interconectados pela rede Internet, estão armazenadados e replicados todas as informações. Garantindo assim milhões de cópias de segurança, que são sincronizadas constantemente para proteger as informações instantaneamente e garantir que as informações de criação e distribuição de dinheiro por meio de transações, sejam registradas de maneira imutável.
 
-## Criptomoedas, a origem 
+## Origem 
 
  Como citado anteriormente, sua origem é década de 80 com o movimento Cypherpunk.
 
